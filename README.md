@@ -111,12 +111,14 @@ typedef struct instruction_s
 - C programming language
 - Betty Linter
 
-[Back To The Top](#monty)
+[Back To The Top](#monty)  
+
 ---
 ## References
-Resources and course material provided by ALX SE
+Resources and course material provided by ALX SE  
 
-[Back To The Top](#monty)
+[Back To The Top](#monty)  
+
 ---
 ## Authors
 👨🏽‍💻 Gilbert Segakweng  
